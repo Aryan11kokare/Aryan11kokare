@@ -15,7 +15,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Tailwind Css** <br />
+- 🌱 I’m currently learning **Typescript** <br />
 - 📫 How to reach me **aryan11kokare@gmail.com** <br />
 - 📄 Know about myexperiences [Iam fresher in web devlopment]
 
