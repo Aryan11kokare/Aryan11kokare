@@ -15,7 +15,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Typescript** <br />
+- 🌱 I’m currently learning **Web 3** <br />
 - 📫 How to reach me **aryan11kokare@gmail.com** <br />
 - 📄 Know about myexperiences [Iam fresher in web devlopment]
 
