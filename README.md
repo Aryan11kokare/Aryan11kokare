@@ -15,7 +15,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Web 3** <br />
+- 🌱 I’m currently learning **Devops** <br />
 - 📫 How to reach me **aryan11kokare@gmail.com** <br />
 - 📄 Know about myexperiences [Iam fresher in web devlopment]
 
